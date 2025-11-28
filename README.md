@@ -21,6 +21,8 @@ Here is a list of the problems and exercises solved in this repository:
 *   **Length of Last Word**: Solution in `problems/length_of_last_word/main.go`
 *   **Single Number**: Solution in `problems/single_number/single-number.go`
 *   **Book Structs and Methods**: Solution in `problems/book_structs/book_structs.go`
+*   **Go Packages Usage**: Solution in `problems/package/main.go`
+*   **Go Maps (Salary Management)**: Solution in `problems/salary_maps/salary_handler.go`
 
 As more solutions are added, they will be listed here.
 
