@@ -1,0 +1,5 @@
+Start with HLD/LLD: Before writing a single line of code, spend an hour drawing a High-Level Design (HLD) diagram and outlining the Low-Level Design (LLD) (e.g., API contracts, database schema, data structures).
+
+Trade-Offs: Document your architectural trade-offs. Why did you choose Cassandra over PostgreSQL for the URL shortener? Why Redis for the Rate Limiter? This demonstrates system thinking.
+
+Use Libraries: For core complex parts like TOTP (Project 1) or distributed messaging (Project 4), use existing, battle-tested libraries/brokers instead of building them from scratch. The focus is on system integration and architecture, not re-implementing existing tools.
